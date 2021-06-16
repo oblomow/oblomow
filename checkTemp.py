@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# shameless copy and paste from various python sources.
+# this script is to be placed /usr/lib/nagios/plugins of your icinga/nagios server
 
 import socket
 import sys
